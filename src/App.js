@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <Header />
-      <BrowserRouter basename={"/app"}>
+      <BrowserRouter basename={"/qdc_services"}>
         <Routes>
           <Route path="/" element={<Nav />}>
             <Route index element={<Home />} />
