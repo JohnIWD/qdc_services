@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <Header />
-      <BrowserRouter basename="/app">
+      <BrowserRouter basename={"/app"}>
         <Routes>
           <Route path="/" element={<Nav />}>
             <Route index element={<Home />} />
