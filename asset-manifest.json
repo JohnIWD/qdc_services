@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/qdc_services/static/css/main.971e1e21.css",
+    "main.js": "/qdc_services/static/js/main.9127cbd7.js",
+    "static/media/lights.jpg": "/qdc_services/static/media/lights.022bea500400f5f94d38.jpg",
+    "static/media/paint3.jpg": "/qdc_services/static/media/paint3.8e2fd5759e76c3175c74.jpg",
+    "static/media/church3.jpg": "/qdc_services/static/media/church3.1d45f4dff472186693f8.jpg",
+    "static/media/church4.jpg": "/qdc_services/static/media/church4.b3f0ff61aa4ed2a38270.jpg",
+    "static/media/gutter_cleaning.jpg": "/qdc_services/static/media/gutter_cleaning.5cbf234367b05b2ac390.jpg",
+    "static/media/map.png": "/qdc_services/static/media/map.bfa8582625f75c61f13f.png",
+    "static/media/gutters.jpg": "/qdc_services/static/media/gutters.8e73de820506bf060f7a.jpg",
+    "static/media/gutter-cleaning.jpg": "/qdc_services/static/media/gutter-cleaning.8800daee8bd0c77364c8.jpg",
+    "static/media/indoor-paint2.jpg": "/qdc_services/static/media/indoor-paint2.a528e6591fd1be6d07b6.jpg",
+    "static/media/leaves.jpg": "/qdc_services/static/media/leaves.b71700b071bb628a4a2e.jpg",
+    "static/media/autumn.jpg": "/qdc_services/static/media/autumn.da273287a95c045796f0.jpg",
+    "static/media/landscaping.jpg": "/qdc_services/static/media/landscaping.19050f0ff9c165a4cc7b.jpg",
+    "static/media/lighting.jpg": "/qdc_services/static/media/lighting.157290d2455545704710.jpg",
+    "static/media/gutter_clog.jpg": "/qdc_services/static/media/gutter_clog.a8fa3265a89d4aa38ad8.jpg",
+    "static/media/paint-color.jpeg": "/qdc_services/static/media/paint-color.5c7724886e6fbdafc21c.jpeg",
+    "static/media/Holiday-light.jpg": "/qdc_services/static/media/Holiday-light.82fc2ac603bc81c455d6.jpg",
+    "static/media/painter.jpg": "/qdc_services/static/media/painter.362bd82bf5a5870c8c31.jpg",
+    "static/media/indoor-paint.jpg": "/qdc_services/static/media/indoor-paint.30e9c7a644271a9ff128.jpg",
+    "static/media/logo.webp": "/qdc_services/static/media/logo.7fe866177d048b25bcb7.webp",
+    "index.html": "/qdc_services/index.html",
+    "main.971e1e21.css.map": "/qdc_services/static/css/main.971e1e21.css.map",
+    "main.9127cbd7.js.map": "/qdc_services/static/js/main.9127cbd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.971e1e21.css",
+    "static/js/main.9127cbd7.js"
+  ]
+}
