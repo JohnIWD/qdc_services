@@ -1,0 +1,73 @@
+.landscaping {
+  display: flex;
+  padding: 30px 50px;
+  background-color: #88cc88;
+}
+
+.landscaping img {
+  height: 100vh;
+  width: 100%;
+  object-fit: contain;
+}
+
+.landscaping div {
+  padding: 0 10px;
+}
+
+.landscaping h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+.landscaping h3,
+.landscaping p {
+  padding: 10px 50px;
+  line-height: 1.6em;
+  font-size: 18px;
+}
+
+.landscaping .phone {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
+.landscaping span {
+  font-weight: bold;
+}
+
+.landscaping .services {
+  display: flex;
+  justify-content: center;
+}
+
+.landscaping ul {
+  list-style: none;
+}
+
+.landscaping li {
+  padding: 5px 20px;
+  font-size: 18px;
+}
+
+.landscaping .icon {
+  color: #fff;
+  background-color: #000;
+  margin-right: 5px;
+}
+
+@media(max-width: 768px) {
+  .landscaping {
+    flex-direction: column;
+  }
+}
+
+@media(max-width: 1000px) {
+  .landscaping {
+    flex-direction: column;
+  }
+
+  /* .landscaping img {
+    justify-content:
+  } */
+}

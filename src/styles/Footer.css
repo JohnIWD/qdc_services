@@ -1,0 +1,13 @@
+footer {
+  background: #333;
+  color: #fff;
+  height: 5rem;
+
+}
+
+footer h3 {
+  padding: 20px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
