@@ -10,11 +10,11 @@ import Lighting from './pages/Lighting'
 import Painting from './pages/Painting'
 import Contact from "./pages/Contact";
 
-const App = () => {
+function App() {
   return (
     <>
       <Header />
-      <BrowserRouter>
+      <BrowserRouter basename="/app">
         <Routes>
           <Route path="/" element={<Nav />}>
             <Route index element={<Home />} />
