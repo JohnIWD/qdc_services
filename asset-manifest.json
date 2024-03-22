@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/qdc_services/static/css/main.971e1e21.css",
-    "main.js": "/qdc_services/static/js/main.fa033cf3.js",
+    "main.css": "/qdc_services/static/css/main.7cc146fb.css",
+    "main.js": "/qdc_services/static/js/main.c94e647a.js",
     "static/media/lights.jpg": "/qdc_services/static/media/lights.022bea500400f5f94d38.jpg",
     "static/media/paint3.jpg": "/qdc_services/static/media/paint3.8e2fd5759e76c3175c74.jpg",
     "static/media/church3.jpg": "/qdc_services/static/media/church3.1d45f4dff472186693f8.jpg",
@@ -22,11 +22,11 @@
     "static/media/indoor-paint.jpg": "/qdc_services/static/media/indoor-paint.30e9c7a644271a9ff128.jpg",
     "static/media/logo.webp": "/qdc_services/static/media/logo.7fe866177d048b25bcb7.webp",
     "index.html": "/qdc_services/index.html",
-    "main.971e1e21.css.map": "/qdc_services/static/css/main.971e1e21.css.map",
-    "main.fa033cf3.js.map": "/qdc_services/static/js/main.fa033cf3.js.map"
+    "main.7cc146fb.css.map": "/qdc_services/static/css/main.7cc146fb.css.map",
+    "main.c94e647a.js.map": "/qdc_services/static/js/main.c94e647a.js.map"
   },
   "entrypoints": [
-    "static/css/main.971e1e21.css",
-    "static/js/main.fa033cf3.js"
+    "static/css/main.7cc146fb.css",
+    "static/js/main.c94e647a.js"
   ]
 }
