@@ -73,3 +73,26 @@
   background-color: #fff;
   margin-right: 5px;
 }
+
+@media(max-width: 950px) {
+  .painting_top {
+    flex-direction: column;
+  }
+
+  .painting_top img {
+    width: 400px;
+    height: 300px;
+    margin: auto;
+  }
+}
+
+@media(max-width: 600px) {
+  .painting_bottom {
+    /* width: 300px; */
+    margin: auto;
+  }
+
+  .painting_container {
+    width: 400px;
+  }
+}

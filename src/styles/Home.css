@@ -14,20 +14,24 @@
   color: #fff;
 }
 
-.home .heading h1 {
+.home .heading {
+  height: 100px;
+}
+
+/* .home .heading h1 {
   font-style: italic;
   justify-content: center;
   text-align: center;
   padding: 5px 10px 30px 10px;
-}
+} */
 
-.home .heading p {
+/* .home .heading p {
   font-size: 20px;
   text-align: center;
   padding: 0 300px;
   margin: auto;
   line-height: 1.5em;
-}
+} */
 
 .home .container {
   padding: 30px;

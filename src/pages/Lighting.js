@@ -45,7 +45,7 @@ const Lighting = () => {
               </div>
             </div>
           </div>
-          <div>
+          <div className='holiday'>
             <img src={holiday} alt="Holiday Lights" />
           </div>
 

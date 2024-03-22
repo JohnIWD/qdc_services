@@ -67,7 +67,7 @@
     flex-direction: column;
   }
 
-  /* .landscaping img {
-    justify-content:
-  } */
+  .landscaping img {
+    height: 50vh;
+  }
 }

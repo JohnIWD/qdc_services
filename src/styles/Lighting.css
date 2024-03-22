@@ -73,3 +73,43 @@
   background-color: #fff;
   margin-right: 5px;
 }
+
+@media(max-width: 1000px) {
+  .lighting_top {
+    flex-direction: column;
+  }
+
+  .lighting_top img {
+    width: 400px;
+    height: 300px;
+    margin: auto;
+  }
+
+  .lighting_bottom {
+    flex-direction: column;
+  }
+
+  .lighting_bottom .lighting_container {
+    margin: auto;
+  }
+
+  .lighting_bottom .holiday {
+    width: inherit;
+    margin: auto;
+  }
+}
+
+@media(max-width: 600px) {
+  .lighting_bottom {
+    width: 500px;
+    margin: auto;
+  }
+
+  .lighting_bottom .holiday {
+    width: 400px;
+  }
+
+  .lighting_bottom img {
+    width: 100%;
+  }
+}
