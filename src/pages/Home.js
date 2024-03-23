@@ -14,8 +14,8 @@ const Home = () => {
 
         <div className='content'>
           <div className='heading'>
-            {/* <h1>Making Homes Beautiful...Inside and Out</h1>
-            <p>At QDC Services, our goal is to make your home more beautiful without breaking the bank. We offer a wide variety of home improvement services including:</p>
+            <h1>QDC Sevices 609-254-1673</h1>
+            {/* <p>At QDC Services, our goal is to make your home more beautiful without breaking the bank. We offer a wide variety of home improvement services including:</p>
             <p>Landscaping, painting, gutter cleaning, and outdoor lighting</p> */}
           </div>
 
