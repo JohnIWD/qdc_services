@@ -2,8 +2,8 @@ import React from 'react'
 import { Outlet, NavLink } from "react-router-dom";
 import '../styles/Home.css'
 import Lights from '../assets/lights.jpg'
-import Leaves from '../assets/leaves.jpg'
-import Paint from '../assets/paint3.jpg'
+import gutter_clog from '../assets/gutter_clog.jpg'
+import Painter from '../assets/painter.jpg'
 
 const Home = () => {
   return (
@@ -35,7 +35,7 @@ const Home = () => {
 
               <div>
                 <div>
-                  <img src={Leaves} alt="lighting" />
+                  <img src={gutter_clog} alt="lighting" />
                 </div>
                 <div>
                   <h2><NavLink to="/gutter">Gutter Cleaning</NavLink></h2>
@@ -48,7 +48,7 @@ const Home = () => {
 
               <div>
                 <div>
-                  <img src={Paint} alt="lighting" />
+                  <img src={Painter} alt="painter" />
                 </div>
                 <div>
                   <h2><NavLink to="/painting">Painting</NavLink></h2>

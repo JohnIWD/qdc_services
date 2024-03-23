@@ -1,10 +1,10 @@
 import React from 'react'
 import '../styles/Gutter.css'
-import leaves from '../assets/leaves.jpg'
-import gutterclean from '../assets/gutter-cleaning.jpg'
-import gutter_cleaning from '../assets/gutter_cleaning.jpg'
+// import leaves from '../assets/leaves.jpg'
+import danonroof from '../assets/danonroof.jpg'
+// import gutter_cleaning from '../assets/gutter_cleaning.jpg'
 import gutters from '../assets/gutters.jpg'
-import clog from '../assets/gutter_clog.jpg'
+// import clog from '../assets/gutter_clog.jpg'
 // import background from '../assets/autumn.jpg'
 
 const Gutter = () => {
@@ -15,9 +15,9 @@ const Gutter = () => {
       <br />
       <div id='gutter' className="gutter_hero">
         <div className="gutter_top">
-          <img src={leaves} alt="leaves" />
-          <img src={gutterclean} alt="cleanout" />
-          <img src={gutter_cleaning} alt="cleanout2" />
+          <img src={gutters} alt="gutters" />
+          <img src={danonroof} alt="dan on roof" />
+          {/* <img src={gutter_cleaning} alt="cleanout2" /> */}
         </div>
         <div className="gutter_bottom">
           <div>
@@ -29,12 +29,12 @@ const Gutter = () => {
                 <p>Call Dan today for a free estimate on Gutter Cleaning!</p>
               </div>
 
-              <img src={gutters} alt="before_after" />
+              {/* <img src={gutters} alt="before_after" /> */}
             </div>
           </div>
-          <div>
+          {/* <div>
             <img className='clog' src={clog} alt="gutter clog" />
-          </div>
+          </div> */}
         </div>
       </div>
     </>

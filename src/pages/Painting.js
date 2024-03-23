@@ -21,8 +21,8 @@ const Painting = () => {
         <div className="painting_bottom">
           <div>
             <div className="painting_container">
-              <h2>Holiday, Residential, and Commercial Outdoor Lighting</h2>
-              <p>Why waste your precious time over the holidays or at your upcoming events carrying boxes of Christmas lights, untangling them, testing them, and arranging hundreds of lights and decorations? QDC Services is here and will do it all for you. We will bring all the decorations, install them, take them down, and pack them back up for you after the holidays or your event.</p>
+              {/* <h2>Holiday, Residential, and Commercial Outdoor Lighting</h2> */}
+              {/* <p>Why waste your precious time over the holidays or at your upcoming events carrying boxes of Christmas lights, untangling them, testing them, and arranging hundreds of lights and decorations? QDC Services is here and will do it all for you. We will bring all the decorations, install them, take them down, and pack them back up for you after the holidays or your event.</p> */}
               <div className='events'>
                 <div>
                   <ul>

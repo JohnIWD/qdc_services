@@ -40,6 +40,10 @@
 
 .home .content {
   padding: 30px;
+
+  h2 {
+    text-align: center;
+  }
 }
 
 .home .content img {

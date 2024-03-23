@@ -3,7 +3,7 @@ import "../styles/Lighting.css"
 // import holiday from '../assets/Holiday-light.jpg'
 import { FaCheck } from "react-icons/fa6";
 import church from '../assets/church4.jpg'
-import lights from '../assets/lights.jpg'
+import christmas_lights from '../assets/christmas_lights.jpg'
 import steeple from '../assets/steeple.jpg'
 
 const Lighting = () => {
@@ -14,9 +14,9 @@ const Lighting = () => {
       <br />
       <div id="lighting" className='lighting_hero'>
         <div className="lighting_top">
-          <img src={lights} alt="lights" />
-          <img src={church} alt="church" />
+          <img src={christmas_lights} alt="lights" />
           <img src={steeple} alt="steeple" />
+          <img src={church} alt="church" />
         </div>
         <div className="lighting_bottom">
           <div>
@@ -29,7 +29,7 @@ const Lighting = () => {
                     <li><FaCheck className='icon' />Christmas</li>
                     <li><FaCheck className='icon' />New Years</li>
                     <li><FaCheck className='icon' />Easter</li>
-                    <li><FaCheck className='icon' />Halloween</li>
+                    <li><FaCheck className='icon' />Landscape</li>
                     <li><FaCheck className='icon' />Graduation</li>
                   </ul>
                 </div>
