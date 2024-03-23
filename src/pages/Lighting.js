@@ -1,10 +1,10 @@
 import React from 'react'
 import "../styles/Lighting.css"
-import holiday from '../assets/Holiday-light.jpg'
+// import holiday from '../assets/Holiday-light.jpg'
 import { FaCheck } from "react-icons/fa6";
 import church from '../assets/church4.jpg'
 import lights from '../assets/lights.jpg'
-import lighting from '../assets/lighting.jpg'
+import steeple from '../assets/steeple.jpg'
 
 const Lighting = () => {
   return (
@@ -14,9 +14,10 @@ const Lighting = () => {
       <br />
       <div id="lighting" className='lighting_hero'>
         <div className="lighting_top">
-          <img src={church} alt="church" />
           <img src={lights} alt="lights" />
-          <img src={lighting} alt="lighting" />
+          <img src={church} alt="church" />
+
+          <img src={steeple} alt="steeple" />
         </div>
         <div className="lighting_bottom">
           <div>
@@ -45,9 +46,9 @@ const Lighting = () => {
               </div>
             </div>
           </div>
-          <div className='holiday'>
+          {/* <div className='holiday'>
             <img src={holiday} alt="Holiday Lights" />
-          </div>
+          </div> */}
 
         </div>
       </div>

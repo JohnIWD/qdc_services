@@ -14,7 +14,7 @@ const Home = () => {
 
         <div className='content'>
           <div className='heading'>
-            <h1>QDC Sevices 609-254-1673</h1>
+            <h1>QDC Services 609-254-1673</h1>
             {/* <p>At QDC Services, our goal is to make your home more beautiful without breaking the bank. We offer a wide variety of home improvement services including:</p>
             <p>Landscaping, painting, gutter cleaning, and outdoor lighting</p> */}
           </div>
@@ -26,11 +26,11 @@ const Home = () => {
                   <img src={Lights} alt="lighting" />
                 </div>
                 <div>
-                  <h2><NavLink to="/lighting">Outdoor Lighting</NavLink></h2>
+                  <h2><NavLink to="/lighting">Christmas Lighting</NavLink></h2>
                 </div>
-                <div className="text">
+                {/* <div className="text">
                   <p>We can do it all with just one call.</p>
-                </div>
+                </div> */}
               </div>
 
               <div>
