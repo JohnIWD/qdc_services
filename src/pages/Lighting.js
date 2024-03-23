@@ -16,7 +16,6 @@ const Lighting = () => {
         <div className="lighting_top">
           <img src={lights} alt="lights" />
           <img src={church} alt="church" />
-
           <img src={steeple} alt="steeple" />
         </div>
         <div className="lighting_bottom">
