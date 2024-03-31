@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/qdc_services/static/css/main.ea6f8a34.css",
-    "main.js": "/qdc_services/static/js/main.6f3db65d.js",
+    "main.css": "/qdc_services/static/css/main.23584a15.css",
+    "main.js": "/qdc_services/static/js/main.c4229660.js",
     "static/media/danonroof.jpg": "/qdc_services/static/media/danonroof.aba92ece81c240be69e3.jpg",
     "static/media/lights.jpg": "/qdc_services/static/media/lights.022bea500400f5f94d38.jpg",
     "static/media/christmas_lights.jpg": "/qdc_services/static/media/christmas_lights.481ef96fb70b1914a23d.jpg",
@@ -17,13 +17,12 @@
     "static/media/paint-color.jpeg": "/qdc_services/static/media/paint-color.5c7724886e6fbdafc21c.jpeg",
     "static/media/painter.jpg": "/qdc_services/static/media/painter.362bd82bf5a5870c8c31.jpg",
     "static/media/indoor-paint.jpg": "/qdc_services/static/media/indoor-paint.30e9c7a644271a9ff128.jpg",
-    "static/media/logo.webp": "/qdc_services/static/media/logo.7fe866177d048b25bcb7.webp",
     "index.html": "/qdc_services/index.html",
-    "main.ea6f8a34.css.map": "/qdc_services/static/css/main.ea6f8a34.css.map",
-    "main.6f3db65d.js.map": "/qdc_services/static/js/main.6f3db65d.js.map"
+    "main.23584a15.css.map": "/qdc_services/static/css/main.23584a15.css.map",
+    "main.c4229660.js.map": "/qdc_services/static/js/main.c4229660.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea6f8a34.css",
-    "static/js/main.6f3db65d.js"
+    "static/css/main.23584a15.css",
+    "static/js/main.c4229660.js"
   ]
 }
