@@ -14,22 +14,34 @@ const Nav = () => {
           <span></span>
         </div>
         <ul className={menuOpen ? "open" : ""}>
-          <li>
+          <li className='link' onClick={() => {
+            setMenuOpen(!menuOpen)
+          }}>
             < NavLink to="/">Home</NavLink>
           </li>
-          <li>
+          <li className='link' onClick={() => {
+            setMenuOpen(!menuOpen)
+          }}>
             <NavLink to="/landscaping">Landscaping</NavLink>
           </li>
-          <li>
+          <li className='link' onClick={() => {
+            setMenuOpen(!menuOpen)
+          }}>
             <NavLink to="/gutter">Gutter Cleaning</NavLink>
           </li>
-          <li>
+          <li className='link' onClick={() => {
+            setMenuOpen(!menuOpen)
+          }}>
             <NavLink to="/lighting">Outdoor Lighting</NavLink>
           </li>
-          <li>
+          <li className='link' onClick={() => {
+            setMenuOpen(!menuOpen)
+          }}>
             <NavLink to="/painting">Painting</NavLink>
           </li>
-          <li>
+          <li className='link' onClick={() => {
+            setMenuOpen(!menuOpen)
+          }}>
             <NavLink to="/contact">Contact</NavLink>
           </li>
         </ul>
